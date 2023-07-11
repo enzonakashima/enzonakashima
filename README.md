@@ -1,6 +1,3 @@
-<h3>Full Stack Developer</h3>
-
-- 📫 How to reach me: **enzonakashima@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
